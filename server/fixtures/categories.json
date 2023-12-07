@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1a3ed2b8-29d3-43e2-84e8-1600c29301c2",
+    "name": "Rubber"
+  },
+  {
+    "id": "18927031-45b6-4f51-89e7-625a9a626b21",
+    "name": "Wooden"
+  },
+  {
+    "id": "a26a0275-dca5-4327-97d1-b3045310e8b3",
+    "name": "Cotton"
+  },
+  {
+    "id": "901bc1e0-d537-4457-8cd2-e56d62f9d43a",
+    "name": "Concrete"
+  },
+  {
+    "id": "aa1baa11-3f4b-4ef6-9d26-e37ba68f81a6",
+    "name": "Soft"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1e849d8d-6399-4976-ac57-e55b5378bc62-d6cf6319-2bae-4f7c-89ff-156eaaa80e63",
+    "name": "Fantastic Cotton Chips",
+    "unit": "l",
+    "cost": 26100,
+    "enabled": true,
+    "currency": "EUR",
+    "primaryCatalogCategory": "Rubber"
+  },
+  {
+    "id": "1e849d8d-6399-4976-ac57-e55b5378bc62-a8fe031f-21b7-46de-ab52-f7b43ad8ab3b",
+    "name": "Fantastic Soft Soap",
+    "unit": "kg",
+    "cost": 34300,
+    "enabled": false,
+    "currency": "EUR",
+    "primaryCatalogCategory": "Wooden"
+  },
+  {
+    "id": "1e849d8d-6399-4976-ac57-e55b5378bc62-24ac6fcf-dd45-406b-8ea4-4a2d7d401b7a",
+    "name": "Handmade Cotton Chair",
+    "unit": "kg",
+    "cost": 65500,
+    "enabled": true,
+    "currency": "EUR",
+    "primaryCatalogCategory": "Wooden"
+  },
+  {
+    "id": "1e849d8d-6399-4976-ac57-e55b5378bc62-25b38e87-fe0b-4274-b843-ff956255d60e",
+    "name": "Unbranded Fresh Chair",
+    "unit": "l",
+    "cost": 25100,
+    "enabled": true,
+    "currency": "EUR",
+    "primaryCatalogCategory": "Cotton"
+  },
+  {
+    "id": "1e849d8d-6399-4976-ac57-e55b5378bc62-951f802b-8325-43e5-b893-b41f03ef74ba",
+    "name": "Intelligent Fresh Towels",
+    "unit": "m",
+    "cost": 32600,
+    "enabled": false,
+    "currency": "EUR",
+    "primaryCatalogCategory": "Concrete"
+  },
+  {
+    "id": "1e849d8d-6399-4976-ac57-e55b5378bc62-367a420d-cd7b-48eb-a975-20ede998e4c0",
+    "name": "Small Metal Chicken",
+    "unit": "lb",
+    "cost": 47500,
+    "enabled": true,
+    "currency": "EUR",
+    "primaryCatalogCategory": "Wooden"
+  },
+  {
+    "id": "1e849d8d-6399-4976-ac57-e55b5378bc62-963b5896-5875-413d-bc72-b90902fe18a0",
+    "name": "Handcrafted Plastic Pants",
+    "unit": "lb",
+    "cost": 7700,
+    "enabled": true,
+    "currency": "EUR",
+    "primaryCatalogCategory": "Soft"
+  },
+  {
+    "id": "1e849d8d-6399-4976-ac57-e55b5378bc62-c5db3827-8415-485e-81c4-7db62950dab5",
+    "name": "Handcrafted Concrete Pizza",
+    "unit": "case",
+    "cost": 62800,
+    "enabled": true,
+    "currency": "EUR",
+    "primaryCatalogCategory": "Concrete"
+  },
+  {
+    "id": "1e849d8d-6399-4976-ac57-e55b5378bc62-4607c45a-94a9-41e4-bc0c-7ab60514c443",
+    "name": "Ergonomic Concrete Shirt",
+    "unit": "bottle",
+    "cost": 34218,
+    "enabled": false,
+    "currency": "EUR",
+    "primaryCatalogCategory": "Soft"
+  }
+]
