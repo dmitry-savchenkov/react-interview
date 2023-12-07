@@ -34,4 +34,16 @@ Using the provided data and the basic react.js application that has been created
 
 ## Trouble shooting
 
-System Preferences >> Network >> press Advanced >> TCP/IP tab >> on Configure IPv6 select Link-local only and apply
+If you are installing via npm and are using an M2 mac you might get this error:
+
+```bash
+(⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂) ⠙ idealTree:project: sill idealTree buildDeps
+```
+
+to fix it follow: https://www.reddit.com/r/node/comments/z9hsdw/npm_install_stuck_on_idealtree_builddeps/
+
+essentially do:
+
+```
+System Preferences >> Network >> press Advanced >> TCP/IP tab >> on Configure IPv6 select Link-local
+```
