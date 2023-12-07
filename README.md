@@ -31,3 +31,7 @@ Using the provided data and the basic react.js application that has been created
 - Add retry policy for the backend requests (in case of network failure)
   - Failed request should be retried 3 times with 1-second delay between retries
 - Add debounce to the search requests
+
+## Trouble shooting
+
+System Preferences >> Network >> press Advanced >> TCP/IP tab >> on Configure IPv6 select Link-local only and apply
